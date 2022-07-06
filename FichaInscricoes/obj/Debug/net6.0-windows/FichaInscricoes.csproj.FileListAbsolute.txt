@@ -1,0 +1,17 @@
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\FichaInscricoes.csproj.AssemblyReference.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\FichaInscricoes.Form1.resources
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\FichaInscricoes.csproj.GenerateResource.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\FichaInscricoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\FichaInscricoes.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\FichaInscricoes.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\FichaInscricoes.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\bin\Debug\net6.0-windows\FichaInscricoes.exe
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\bin\Debug\net6.0-windows\FichaInscricoes.deps.json
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\bin\Debug\net6.0-windows\FichaInscricoes.runtimeconfig.json
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\bin\Debug\net6.0-windows\FichaInscricoes.dll
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\bin\Debug\net6.0-windows\FichaInscricoes.pdb
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\FichaInscricoes.dll
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\refint\FichaInscricoes.dll
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\FichaInscricoes.pdb
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\FichaInscricoes.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\FichaInscricoes\FichaInscricoes\obj\Debug\net6.0-windows\ref\FichaInscricoes.dll
